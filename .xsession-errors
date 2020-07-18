@@ -1,0 +1,193 @@
+Xsession: X session started for juandedeiros at vie jul 17 18:43:01 -05 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/juandedeiros/.Xauthority
+localuser:juandedeiros being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=juandedeiros
+dbus-update-activation-environment: setting LANGUAGE=es_EC:es
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/juandedeiros
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=juandedeiros
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDM_LANG=es_EC.utf8
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_EC.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/juandedeiros/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/juandedeiros
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/juandedeiros
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 18:43:03.238: SSH authentication agent is already running
+gpg-agent[859]: ATENCIÓN: "--write-env-file" es una opción obsoleta - no tiene efecto
+gpg-agent: ya hay un agente gpg ejecutándose - no se inicia otro
+
+(xfce4-session:749): xfce4-session-WARNING **: 18:43:03.269: gpg-agent returned no PID in the variables
+
+(xfce4-session:749): xfce4-session-WARNING **: 18:43:03.293: xfsm_manager_load_session: Something wrong with /home/juandedeiros/.cache/sessions/xfce4-session-kali:0, Does it exist? Permissions issue?
+
+(xfwm4:862): xfwm4-WARNING **: 18:43:04.463: Unsupported GL renderer (llvmpipe (LLVM 9.0.1, 128 bits)).
+
+(xfwm4:862): xfwm4-WARNING **: 18:43:04.463: Screen is missing required GL renderer, GL support disabled.
+
+(wrapper-2.0:877): Gtk-WARNING **: 18:43:08.137: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:890): GLib-GIO-CRITICAL **: 18:43:08.483: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:890): GLib-GIO-CRITICAL **: 18:43:08.484: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:890): GLib-GObject-WARNING **: 18:43:08.484: invalid (NULL) pointer instance
+
+(wrapper-2.0:890): GLib-GObject-CRITICAL **: 18:43:08.484: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:890): Gtk-WARNING **: 18:43:08.484: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:890): Gtk-WARNING **: 18:43:08.585: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:892): WARNING **: 18:43:08.715: No outputs have backlight property
+
+(wrapper-2.0:889): Gtk-WARNING **: 18:43:09.381: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:892): Gtk-WARNING **: 18:43:09.580: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+** (xiccd:939): WARNING **: 18:43:12.752: EDID is empty
+blueman-applet 18.43.18 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 18.43.18 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 18.43.18 WARNING  DiscvManager:109 update_menuitems: warning: Adapter is None
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_es_EC.qm" from dir /usr/share/qterminal/translations
+load success: true
+qt5ct: D-Bus global menu: no
+Canot open file "/home/juandedeiros/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+Translations found in "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_es_EC.qm" from dir /usr/share/qterminal/translations
+load success: true
+qt5ct: D-Bus global menu: no
+Canot open file "/home/juandedeiros/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+Translations found in "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+** (xiccd:939): WARNING **: 18:49:14.552: EDID is empty
+
+** (xiccd:939): WARNING **: 18:49:14.555: EDID is empty
+Sandbox: seccomp sandbox violation: pid 1289, tid 1289, syscall 315, args 1289 140050852761216 56 0 5 140050852761216.
+Sandbox: seccomp sandbox violation: pid 1329, tid 1329, syscall 315, args 1329 140444767167872 56 0 37 140444767167872.
+Sandbox: seccomp sandbox violation: pid 1375, tid 1375, syscall 315, args 1375 139916774533120 56 0 31 139916774533120.
+Sandbox: seccomp sandbox violation: pid 1398, tid 1398, syscall 315, args 1398 140027444394368 56 0 19 140027444394368.
+
+(xfce4-panel:867): xfce4-panel-CRITICAL **: 18:49:53.356: panel-window.c:3086 (panel_window_thaw_autohide): expression 'window->autohide_block > 0' failed.
+Properties destructor called
+Properties destructor called
+
+(xfce4-panel:867): xfce4-panel-CRITICAL **: 19:02:43.671: panel-window.c:3086 (panel_window_thaw_autohide): expression 'window->autohide_block > 0' failed.
+
+** (xiccd:939): WARNING **: 19:09:50.202: EDID is empty
+
+** (xiccd:939): WARNING **: 19:09:50.219: EDID is empty
+
+** (xiccd:939): WARNING **: 19:09:53.060: EDID is empty
+
+** (xiccd:939): WARNING **: 19:09:53.063: EDID is empty
+
+** (xiccd:939): WARNING **: 19:09:53.430: EDID is empty
+
+** (xiccd:939): WARNING **: 19:09:53.454: EDID is empty
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_es_EC.qm" from dir /usr/share/qterminal/translations
+load success: true
+qt5ct: D-Bus global menu: no
+Canot open file "/home/juandedeiros/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+Translations found in "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/usr/share/kali-menu/exec-in-shell sudo setoolkit"
+("/usr/share/kali-menu/exec-in-shell", "sudo", "setoolkit")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_es_EC.qm" from dir /usr/share/qterminal/translations
+load success: true
+qt5ct: D-Bus global menu: no
+Canot open file "/home/juandedeiros/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+Translations found in "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+** (xiccd:939): WARNING **: 19:19:41.252: EDID is empty
+
+** (xiccd:939): WARNING **: 19:19:41.351: EDID is empty
+Properties destructor called
+Properties destructor called
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_es_EC.qm" from dir /usr/share/qterminal/translations
+load success: true
+qt5ct: D-Bus global menu: no
+Canot open file "/home/juandedeiros/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+Translations found in "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Sandbox: seccomp sandbox violation: pid 1442, tid 1442, syscall 315, args 1442 140160173150336 56 0 59 140160173150336.
